@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-10-09T07:08:59.628036635Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-10-09T07:31:11.483938854Z",
     "templateType": "trip_d",
     "propertyId": "935ab714-e07d-4c18-8286-78e674d2933a",
     "homepageId": "0ecddd6a-4d51-4690-8d85-2be4b8f3d589"
@@ -1225,8 +1225,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "e24e3a7e-270d-4ee8-ab80-3d76381fc127",
-                    "url": "https://daylifeps.com/assets/images/room/layout.webp",
+                    "id": "01a11f92-af8e-7443-81fa-7058a9c86c39",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0ecddd6a-4d51-4690-8d85-2be4b8f3d589/layout_map_about/1791531067902-1yufvb1wcp.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
