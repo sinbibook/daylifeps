@@ -30,14 +30,14 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="여수 일상의작은변화 애견동반 펜션 - 객실안내" />
   <meta property="og:description" content="여수 일상의작은변화 애견동반펜션, 즐거운 수영장과 개별 바베큐로 가족·커플과 반려견이 함께하는 특별한 휴식! 일출·일몰의 감동까지 즐겨보세요." />
-  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/B3eYzRi6Z9yr.jpg" />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/lGwhirfHDoKF.jpg" />
   <meta property="og:url" content="https://daylifeps.com" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="여수 일상의작은변화 애견동반 펜션 - 객실안내" />
   <meta name="twitter:description" content="여수 일상의작은변화 애견동반펜션, 즐거운 수영장과 개별 바베큐로 가족·커플과 반려견이 함께하는 특별한 휴식! 일출·일몰의 감동까지 즐겨보세요." />
-  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/B3eYzRi6Z9yr.jpg" />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/lGwhirfHDoKF.jpg" />
   <meta name="naver-site-verification" content="e973f0595ef816619fb8957bdeed625c1d59db71" />
   <meta name="google-site-verification" content="Li81pFe2E_O99rSMAsc1ssxnqgUpYY18DKwv7bcH12U" />
 </head>
@@ -243,6 +243,14 @@
                 </div>
               </div>
             </div>
+            <!-- s: 객실 평면도 — 원본 객실 상세의 평면도 크롤링 이미지가 있을 때만 노출.
+                 제목 영역 없이 도면 이미지 한 장만 놓는다. 없으면 매퍼가 구간째 숨긴다. -->
+            <div class="room_floorplan" data-room-floorplan-section style="display: none">
+              <!-- data-* : data-room-floorplan-image
+                   roomtypes[current] 평면도 이미지 → 없으면 섹션 미노출 -->
+              <img alt="객실 평면도" data-room-floorplan-image />
+            </div>
+            <!--// 객실 평면도 -->
             <div
               class="main_room"
               style="background: color-mix(in srgb, var(--color-primary) 55%, transparent)"
