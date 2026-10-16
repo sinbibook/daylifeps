@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-10-12T02:40:05.384801951Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-10-16T14:01:46.141136498Z",
     "templateType": "trip_d",
     "propertyId": "935ab714-e07d-4c18-8286-78e674d2933a",
     "homepageId": "0ecddd6a-4d51-4690-8d85-2be4b8f3d589"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n※ 인원추가비용 및 애견동반비용, 바베큐비용, 불멍비용 등 객실가 외 추가 비용은 필수로 현장에서 추가 결제가 진행됩니다.",
-    "usageGuide": "[공지사항]\n- 객실환경과 화재 예방을 위하여 객실 내에서는 금연입니다.(고기,생선 조리불가)\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n※ 인원추가비용 및 애견동반비용, 바베큐비용, 불멍비용 등 객실가 외 추가 비용은 필수로 현장에서 추가 결제가 진행됩니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아(36개월 미만): 무료이나 인원수에는포함\n※ 인원추가비용 및 애견동반비용, 바베큐비용, 불멍비용 등 객실가 외 추가 비용은 필수로 현장에서 추가 결제가 진행됩니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 4인 기준 20,000원 / 1인 추가시 5,000원 / 숯추가 5,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 최소 입실 하루 전 예약\n※ 동계 및 우천 시 가능하나 비바람이 심할 경우 불가\n\n[공용수영장]\n- 운영 기간: 26년 5월 15일 ~ 26년 9월 30일 (날씨 및 상황에 따라 변경될 수 있습니다)\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 래쉬가드, 수영복 착용\n- 수영장 크기: 3m x 5.5m x 1.5m\n※ 애견 입수 금지\n\n[애견동반]\n- 동반 가능 객실: 102호\n- 이용 요금: 1마리 당 20,000원 (1박기준/현장결제)\n- 제한 무게: 소형견 5kg 이하\n- 제한 마릿수: 2마리\n- 애견 비품: 없음\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n- 제한 사항: 모든 견종 입실 가능\n※ 동물보호법상 맹견으로 분류된 견종은 동반 불가합니다.\n※ 객실 내 침구류에 배변 등으로 오염시 세탁비가 청구됩니다.\n※ 객실 내 비품, 벽지 훼손시 수리비가 청구됩니다.\n※ 수영장 애견 불가\n※ BBQ장 애견 동반 가능\n※ 기타 공용시설 애견: 잔디밭\n\n[불멍]\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 장소: 펜션 앞 마당\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스 이용 가능\n※ OTT 개인계정 불필요\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 객실 당 3대\n- 전기차 충전기 이용 가능\n※ 인근에 위치한 하나로마트 주차장\n\n[교통편]\n[승용차 이용 시]\n※ 네비에 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 전남 여수시 소라면 복산리 921\n- 도로명 주소 : 전남 여수시 소라면 대곡해안길 203-9\n\n[대중교통 이용 시]\n- 여수 시외버스터미널 정류장(25-1,26,21,23,24번 등) 승차 - 죽림삼거리 정류장(84번) 환승 - 기쁜노인요양원 정류장 하차 - 도보(약 6분) 409m) 이동 - 일상의작은변화 애견동반 펜션 도착",
+    "usageGuide": "- 객실환경과 화재 예방을 위하여 객실 내에서는 금연입니다.(고기,생선 조리불가)\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n※ 인원추가비용 및 애견동반비용, 바베큐비용, 불멍비용 등 객실가 외 추가 비용은 필수로 현장에서 추가 결제가 진행됩니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 10,000원\n(1박기준/현장결제)\n※ 유아(36개월 미만): 무료이나 인원수에는포함\n※ 인원추가비용 및 애견동반비용, 바베큐비용, 불멍비용 등 객실가 외 추가 비용은 필수로 현장에서 추가 결제가 진행됩니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 4인 기준 20,000원 / 1인 추가시 5,000원 / 숯추가 5,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 최소 입실 하루 전 예약\n※ 동계 및 우천 시 가능하나 비바람이 심할 경우 불가\n\n[공용수영장]\n- 운영 기간: 26년 5월 15일 ~ 26년 9월 30일 (날씨 및 상황에 따라 변경될 수 있습니다)\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 래쉬가드, 수영복 착용\n- 수영장 크기: 3m x 5.5m x 1.5m\n※ 애견 입수 금지\n\n[애견동반]\n- 동반 가능 객실: 102호\n- 이용 요금: 1마리 당 20,000원 (1박기준/현장결제)\n- 제한 무게: 소형견 5kg 이하\n- 제한 마릿수: 2마리\n- 애견 비품: 없음\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n- 제한 사항: 모든 견종 입실 가능\n※ 동물보호법상 맹견으로 분류된 견종은 동반 불가합니다.\n※ 객실 내 침구류에 배변 등으로 오염시 세탁비가 청구됩니다.\n※ 객실 내 비품, 벽지 훼손시 수리비가 청구됩니다.\n※ 수영장 애견 불가\n※ BBQ장 애견 동반 가능\n※ 기타 공용시설 애견: 잔디밭\n\n[불멍]\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 장소: 펜션 앞 마당\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스 이용 가능\n※ OTT 개인계정 불필요\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 객실 당 3대\n- 전기차 충전기 이용 가능\n※ 인근에 위치한 하나로마트 주차장\n\n[교통편]\n[승용차 이용 시]\n※ 네비에 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 전남 여수시 소라면 복산리 921\n- 도로명 주소 : 전남 여수시 소라면 대곡해안길 203-9\n\n[대중교통 이용 시]\n- 여수 시외버스터미널 정류장(25-1,26,21,23,24번 등) 승차 - 죽림삼거리 정류장(84번) 환승 - 기쁜노인요양원 정류장 하차 - 도보(약 6분) 409m) 이동 - 일상의작은변화 애견동반 펜션 도착",
     "reservationGuide": "- 객실환경과 화재 예방을 위하여 객실 내에서는 금연입니다.(고기,생선 조리불가)\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -74,11 +74,60 @@
     },
     "facilities": [
       {
+        "id": "01a14503-04bd-7e56-a9dc-36422404f19c",
+        "name": "오션뷰",
+        "description": "",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a14503-163a-71ed-aeed-ca16ba020092",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a14503-04bd-7e56-a9dc-36422404f19c/main/1792159191810-iazp1v72uv.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a14503-d555-72ab-8d9b-7a6bf09f6896",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a14503-04bd-7e56-a9dc-36422404f19c/main/1792159240792-chhghpijg4.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a14503-14ee-7c80-8fc5-44b45e00382c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a14503-04bd-7e56-a9dc-36422404f19c/main/1792159191806-lm54reitpc.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a14503-19fc-7ff4-8c27-8df8f123a942",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a14503-04bd-7e56-a9dc-36422404f19c/main/1792159191818-c0fzbs6umh.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a14503-19a9-766d-b821-8e57c8ee1606",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a14503-04bd-7e56-a9dc-36422404f19c/main/1792159191813-c17xyesnlz.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "2050f0d4-4157-4b0d-8468-e25167171fd1",
         "name": "애견동반",
         "description": "",
         "usageGuide": "- 동반 가능 객실: 102호\n- 이용 요금: 1마리 당 20,000원 (1박기준/현장결제)\n- 제한 무게: 소형견 5kg 이하\n- 제한 마릿수: 2마리\n- 애견 비품: 없음\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n- 제한 사항: 모든 견종 입실 가능\n※ 동물보호법상 맹견으로 분류된 견종은 동반 불가합니다.\n※ 객실 내 침구류에 배변 등으로 오염시 세탁비가 청구됩니다.\n※ 객실 내 비품, 벽지 훼손시 수리비가 청구됩니다.\n※ 수영장 애견 불가\n※ BBQ장 애견 동반 가능\n※ 기타 공용시설 애견: 잔디밭",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "images": [
           {
             "id": "ee5ab53a-deb2-4a67-9a44-53729bf241b2",
@@ -100,47 +149,6 @@
             "id": "f182c2db-73f3-4257-bdb4-a912cf16a3a1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2050f0d4-4157-4b0d-8468-e25167171fd1/main/1787912557630-q4nagne7ca.webp",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "8e79ba1e-53be-4cf2-957c-bf2dcff9bcad",
-        "name": "공용수영장",
-        "description": "",
-        "usageGuide": "- 운영 기간: 26년 5월 15일 ~ 26년 9월 30일 (날씨 및 상황에 따라 변경될 수 있습니다)\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 래쉬가드, 수영복 착용\n- 수영장 크기: 3m x 5.5m x 1.5m\n※ 애견 입수 금지",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "190477b3-ea16-49eb-8419-9188d04186bc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555796-o04pixbjqa.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "89c1e2fc-b7b3-4041-91b0-70131aecf36b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555796-iw0hdz53ui.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "557aea59-d7c3-4fcd-bb44-d79de1767cab",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555797-s4v4aqf3ct.webp",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "b0af4ef8-9986-4c84-8019-d31ba93e9eac",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555799-glfss2qso1.webp",
-            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -181,11 +189,52 @@
         ]
       },
       {
+        "id": "8e79ba1e-53be-4cf2-957c-bf2dcff9bcad",
+        "name": "공용수영장",
+        "description": "",
+        "usageGuide": "- 운영 기간: 26년 5월 15일 ~ 26년 9월 30일 (날씨 및 상황에 따라 변경될 수 있습니다)\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 래쉬가드, 수영복 착용\n- 수영장 크기: 3m x 5.5m x 1.5m\n※ 애견 입수 금지",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "190477b3-ea16-49eb-8419-9188d04186bc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555796-o04pixbjqa.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "89c1e2fc-b7b3-4041-91b0-70131aecf36b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555796-iw0hdz53ui.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "557aea59-d7c3-4fcd-bb44-d79de1767cab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555797-s4v4aqf3ct.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b0af4ef8-9986-4c84-8019-d31ba93e9eac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8e79ba1e-53be-4cf2-957c-bf2dcff9bcad/main/1787912555799-glfss2qso1.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "6b2a6a50-7893-4b0e-8fc6-7c259bf17fd0",
         "name": "불멍",
         "description": "",
         "usageGuide": "- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 장소: 펜션 앞 마당",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "43716051-b525-4e01-8c1f-e15ac74fb30b",
@@ -210,7 +259,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스 이용 가능\n※ OTT 개인계정 불필요\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "f23b51f5-0eb7-4c07-a649-0f633505049e",
@@ -298,7 +347,7 @@
           {
             "id": "f37fd161-4743-4e1c-ab8b-6b15b8fb1d1c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/lGwhirfHDoKF.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -308,7 +357,7 @@
           {
             "id": "450f96d7-157f-418c-aa07-c865c128c7e9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/B3eYzRi6Z9yr.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -316,7 +365,7 @@
           {
             "id": "94d4fea4-7154-4665-b188-0c51cb96411c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/FVh5OXKNrJ7T.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -324,7 +373,7 @@
           {
             "id": "3e0f2092-e901-4eee-b462-bc4437911aba",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/x45Bz8jgFaUw.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -332,7 +381,7 @@
           {
             "id": "18b9b572-4c22-4ed1-95b8-8e63d1acb9d8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/H8mBIOdz20rE.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -340,7 +389,7 @@
           {
             "id": "00cda7f8-f857-465a-a591-37556046fb39",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/QEGHBNDqxMw8.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -348,7 +397,7 @@
           {
             "id": "98b75a6e-b11d-4c09-8583-34fa2fc80c21",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/Ma93jSFxtgYP.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -356,7 +405,7 @@
           {
             "id": "01a11fad-f7bb-7235-b1ef-21f7a0ac21d7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/09/re2QDXWTiwqB.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -364,7 +413,7 @@
           {
             "id": "d95b33d3-1b94-4a55-9629-5fc5267a9174",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/IflaCEN4tn2U.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1156,7 +1205,28 @@
             ]
           }
         ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "01a14503-04bd-7e56-a9dc-36422404f19c",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "  전 객실 오션뷰 객실입니다.\n  탁 트인 남해바다의 일출&일몰을 눈으로 담아보세요.",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
